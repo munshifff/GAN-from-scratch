@@ -4,7 +4,7 @@ A minimal Generative Adversarial Network (GAN) implemented in Keras.
 
 ## Architecture
 
-![GAN Architecture](https://raw.githubusercontent.com/udacity/deep-learning-v2-pytorch/master/gan_faces/assets/gan.png)
+![GAN Architecture]([https://raw.githubusercontent.com/udacity/deep-learning-v2-pytorch/master/gan_faces/assets/gan.png](https://www.ijraset.com/images/text_version_uploads/imag%201_53059.png))
 
 
 - **Generator (G):** takes random noise and creates fake samples  
